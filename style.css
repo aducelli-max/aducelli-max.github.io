@@ -1,0 +1,21 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #de7471
+}
+
+p{
+font-size: 30px;
+text-align: bottom;
+font-family: Helvetica, sans-serif;
+}
+
+body {
+background-color: #007481;
+}
+
+img {
+display: flex;
+align-items: center;
+justify-content: center;
+}
